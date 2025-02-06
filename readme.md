@@ -9,6 +9,6 @@ website = https://dapp.fractionai.xyz?referral=82AF0A65
 
 # INSTALL 
 
-- git clone
-- cd
+- git clone https://github.com/Boyoke-Encok/fraction.git
+- cd fraction
 - npm install 
